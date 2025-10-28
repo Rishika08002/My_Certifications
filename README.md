@@ -10,9 +10,13 @@ Here are some of my verified certifications that reflect my data analytics and t
 | Data Analytics Virtual Internship | Deloitte Australia | 2025 | [Certificate Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_vKSTEJ9Z7QsXW7Z3j_1752399160016_completion_certificate.pdf) |
 | Power BI for Data Analysts | Microsoft Learn | 2025 | ( https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/w2wu6e8n?ref=https%3A%2F%2Flnkd.in%2F
 https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/yeyw3byr?ref=https%3A%2F%2Flnkd.in%2F
-https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/8z8p4bgw?ref=https%3A%2F%2Flnkd.in%2F) |
+https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/8z8p4bgw?ref=https%3A%2F%2Flnkd.in%2F
+https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/7ka7jl8z?ref=https%3A%2F%2Fwww.linkedin.com%2F
+https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/xqwcd65y?ref=https%3A%2F%2Fwww.linkedin.com%2F
+https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/2dreb7sv?ref=https%3A%2F%2Fwww.linkedin.com%2F
+https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/2dywhwsv?ref=https%3A%2F%2Fwww.linkedin.com%2F
+https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/w29lslen?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 ---
-
 ## 📚 Skill Highlights
 - Power BI | SQL | Python | Excel | Data Modeling  
 - Data Visualization | Business Analytics | Cloud Fundamentals  
