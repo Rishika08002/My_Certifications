@@ -12,10 +12,17 @@ Here are some of my verified certifications that reflect my data analytics and t
 | Power BI for Data Analysts | Microsoft Learn | 2025 | [View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/yeyw3byr?ref=https%3A%2F%2Flnkd.in%2F) |
 | Power BI for Data Analysts | Microsoft Learn | 2025 | [View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/8z8p4bgw?ref=https%3A%2F%2Flnkd.in%2F) |
 | Power BI for Data Analysts | Microsoft Learn | 2025 | [View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/7ka7jl8z?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
-| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge]( https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/xqwcd65y?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/xqwcd65y?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 | Power BI for Data Analysts | Microsoft Learn | 2025 | [View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/2dreb7sv?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 | Power BI for Data Analysts | Microsoft Learn | 2025 | [View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/2dywhwsv?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
-| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge]( https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/w29lslen?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/w29lslen?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/nvu2qzjf?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/h76x4za8?ref=https%3A%2F%2Fwww.linkedin.com%2F ) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/e5zdhl5p?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/3al3lbth?ref=https%3A%2F%2Fwww.linkedin.com%2F ) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/9ydlrcgu?ref=https%3A%2F%2Fwww.linkedin.com%2F ) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/rishikabansal-5018/achievements/h7ggerv8?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| Power BI for Data Analysts | Microsoft Learn | 2025 |[View Badge](https://learn.microsoft.com/en-us/users/RishikaBansal-5018/achievements/BCZE9K4D?ref=https%3a%2f%2fwww.linkedin.com%2f) |
 ---
 ## 📚 Skill Highlights
 - Power BI | SQL | Python | Excel | Data Modeling  
